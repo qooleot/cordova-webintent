@@ -1,0 +1,22 @@
+{
+  "name": "cordova-webintent",
+  "version": "1.0.0",
+  "description": "WebIntent",
+  "cordova": {
+    "id": "cordova-webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qooleot/cordova-webintent.git"
+  },
+  "keywords": [
+    "cordova",
+    "webintent",
+    "ecosystem:cordova",
+    "cordova-android",
+  ],
+  "license": "MIT"
+}
